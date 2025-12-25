@@ -34,10 +34,9 @@ simple-blog/
 
 ## Live Demo
 
-
-
-
+https://choudharyharsh1929.github.io/Simple-Blog-/
 
 ## Author
 
 Harsh Choudhary
+
